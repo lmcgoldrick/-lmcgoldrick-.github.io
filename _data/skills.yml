@@ -1,36 +1,15 @@
-header: Say something about what you're good at
+header: I am a hardworker and a good problem solver
 
-subheader: Give some more context
+subheader: I am able to apply these characteristics in every aspect of my life, whether it is school or athletics
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Fast-Learner
+    description: I am always up to the task of learning new skills quickly
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Attention to Detail
+    description: I apply myself in everything that I do. I am a very thorough person
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
-
+  - name: Team-Player
+    description: I work well with teams, having good communication skills and experience with team efforts
 #If you have certifications, talk about them here
-certifications:
-  - name: Certification 1
-    topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
 
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
-
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
